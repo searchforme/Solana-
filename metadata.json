@@ -1,6 +1,6 @@
 {
-  "name": "DIScord Token",
-  "symbol": "DSRD",
+  "name": "Discord Token",
+  "symbol": "DSR",
   "description": "Example token from Solana Making a Token guide.",
   "image": "https://raw.githubusercontent.com/searchforme/Solana-/main/discord.256x256.png"
 }
