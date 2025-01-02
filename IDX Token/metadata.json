@@ -1,6 +1,6 @@
 {
-  "name": "Dash Token",
-  "symbol": "DASHCARD",
+  "name": "Dore Token",
+  "symbol": "DORECARDS",
   "description": "Example token from Solana Making a Token guide.",
   "image": "https://raw.githubusercontent.com/searchforme/Solana-/main/IDX%20Token/electron.256x256.png"
 }
