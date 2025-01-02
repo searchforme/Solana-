@@ -1,0 +1,6 @@
+{
+  "name": "DIScord Token",
+  "symbol": "DSRD",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://github.com/searchforme/Solana-/blob/main/discord.256x256.png"
+}
